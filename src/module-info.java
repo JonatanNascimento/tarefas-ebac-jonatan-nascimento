@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author quadr
+ *
+ */
+module PrimeiroProjeto {
+}
